@@ -1,0 +1,17 @@
+{
+  "name": "web2-iii-survey",
+  "version": "1.0.0",
+  "description": "survey",
+  "main": "survey.js",
+  "homepage": "https://EnebeliEmmanuel.github.io/survey",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "koko codes",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^3.2.3",
+    "node-sass": "^7.0.1"
+  }
+}
