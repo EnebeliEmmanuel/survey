@@ -9,4 +9,6 @@ the image for the background was gotten from: url(https://cdn.freecodecamp.org/t
 
 i made use of media queries for the responsiveness.
 
-link to this project done by me can be accessed at: https://github.com/EnebeliEmmanuel/web2bridge-survey-form.git
+link to this project done by me can be accessed at: https://github.com/EnebeliEmmanuel/survey.git
+
+link to the live project: https://EnebeliEmmanuel.github.io/survey
